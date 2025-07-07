@@ -17,7 +17,7 @@
   "homepage": "https://github.com/adrianvrj/cavos-sdk-example#readme",
   "description": "",
   "dependencies": {
-    "cavos-service-sdk": "^1.1.17",
+    "cavos-service-sdk": "^1.1.18",
     "dotenv": "^17.0.1",
     "express": "^5.1.0"
   }
